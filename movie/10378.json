@@ -1,0 +1,11 @@
+{
+  "kind": "movie",
+  "tmdbId": 10378,
+  "title": "Big Buck Bunny (test map)",
+  "runtimeSec": 596,
+  "cues": [
+    { "start": 10, "end": 15, "action": "mute", "category": "profanity", "note": "test mute" },
+    { "start": 40, "end": 50, "action": "skip", "category": "violence", "note": "test skip" },
+    { "start": 60, "end": 66, "action": "blur", "category": "nudity", "note": "test blur" }
+  ]
+}
