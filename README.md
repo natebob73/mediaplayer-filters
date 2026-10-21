@@ -1,6 +1,6 @@
-# MediaPlayer filter library
+# ClearView filter library
 
-Content-filter maps for the MediaPlayer Apple TV app: VideoSkip `.skp` files (mute language, skip or blur scenes),
+Content-filter maps for the ClearView Apple TV app: VideoSkip `.skp` files (mute language, skip or blur scenes),
 plus `.edl`, `.mcf` and `.json` maps. The app reads this repo directly:
 `https://raw.githubusercontent.com/natebob73/mediaplayer-filters/main`.
 
