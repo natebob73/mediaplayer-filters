@@ -1,7 +1,7 @@
 {
  "name": "Nate's filters",
  "version": 2,
- "updated": "2026-10-24T01:22:59+00:00",
+ "updated": "2026-10-24T01:36:19+00:00",
  "maps": [
   "imdb/tt0023038.d4748.skp",
   "imdb/tt0024500.d3743.skp",
@@ -2447,6 +2447,11 @@
   "tv/imdb-tt0101120/S08E27.d1563.skp",
   "tv/imdb-tt0106168/S02E23.d2369.skp",
   "tv/imdb-tt0106168/S09E24.d2712.skp",
+  "tv/imdb-tt0115167/S01E02.d1337.skp",
+  "tv/imdb-tt0115167/S01E03.d1345.skp",
+  "tv/imdb-tt0115167/S01E04.d823.skp",
+  "tv/imdb-tt0115167/S01E11.d1319.skp",
+  "tv/imdb-tt0115167/S01E13.d248.skp",
   "tv/imdb-tt0115167/S03E22.d1482.skp",
   "tv/imdb-tt0115167/S03E23.d1316.skp",
   "tv/imdb-tt0115167/S03E24.d1273.skp",
